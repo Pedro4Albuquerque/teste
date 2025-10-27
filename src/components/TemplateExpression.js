@@ -2,7 +2,7 @@ const TemplateExpression = () =>{
     const nome = "Igor Henrique";
     const data = {
         age: 20 ,
-        job: "garoto de progama"
+        job: "Progamador"
     };
     return(
         <div>
